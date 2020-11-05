@@ -9,13 +9,11 @@
   width: 990px;
   height: 700px;
   margin: 5px;
-  background-color: green;
 }
 
 /* Inizio section one */
 .row{
   width: 970px;
-  background-color: blue;
 }
 
 .box{
@@ -45,7 +43,6 @@
   display: none;
 }
 
-.heart:hover{
+.box:hover .heart{
   display: block;
-  color: red;
 }
