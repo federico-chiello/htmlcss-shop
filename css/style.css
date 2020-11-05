@@ -34,3 +34,18 @@
 .box:nth-child(even) .discount {
   background-color: red;
 }
+
+.heart{
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+  color: red;
+  font-size: 25px;
+  display: none;
+}
+
+.heart:hover{
+  display: block;
+  color: red;
+}
