@@ -6,13 +6,21 @@
 
 
 .container {
-  width: 950px;
+  width: 990px;
   height: 700px;
   margin: 5px;
-  background: green;
+  background-color: green;
 }
 
 .row{
-  width: 900px;
-  background: blue;
+  width: 970px;
+  background-color: blue;
+}
+
+.box{
+  display: inline-block;
+}
+
+.discount{
+  display: inline;
 }
